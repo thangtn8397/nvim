@@ -1,0 +1,8 @@
+{
+"suggest.maxCompleteItemCount": 20,
+"coc.preferences.formatOnSaveFiletypes": ["javascript", "typescript", "typescriptreact", "json", "javascriptreact", "typescript.tsx", "html", "css", "scss", "javascript.jsx"],
+"diagnostic.errorSign"  : "🕱",
+"diagnostic.warningSign": "☢",
+"diagnostic.infoSign"   : "",
+"diagnostic.hintSign"   : "ﯦ"
+}
